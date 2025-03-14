@@ -86,7 +86,7 @@ HLT
 ```
 
 
-## Output
+### Output
 ![Screenshot 2025-03-14 134935](https://github.com/user-attachments/assets/0800b5e7-9a96-4e56-980f-b830246b122c)
 
  
